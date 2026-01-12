@@ -1,2 +1,3 @@
 # github-demo
-write what you learn from github
+Write what you learn from github
+Developer - Lovely Pal
